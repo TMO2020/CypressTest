@@ -1,2 +1,2 @@
-# CypressTest
-This test will go to southwest and attempt to book a flight for today from Hou to ATL 
+# BallPython Morph Genetic Calculator
+This test will make it easier for me to pair my ball pythons and see what morphs I like more
